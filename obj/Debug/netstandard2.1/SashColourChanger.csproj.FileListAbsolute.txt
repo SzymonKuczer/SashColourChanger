@@ -1,0 +1,16 @@
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.csproj.AssemblyReference.cache
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.AssemblyInfoInputs.cache
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.AssemblyInfo.cs
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.csproj.CoreCompileInputs.cache
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\SashColourChanger.deps.json
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\SashColourChanger.dll
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\SashColourChanger.pdb
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\Zorro.Core.Runtime.dll
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColo.A10DDDEB.Up2Date
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.dll
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\obj\Debug\netstandard2.1\SashColourChanger.pdb
+C:\Users\magda\OneDrive\Desktop\SashColourPlugin\SashColourChanger\bin\Debug\netstandard2.1\PhotonRealtime.dll
