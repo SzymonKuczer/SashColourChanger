@@ -1,4 +1,4 @@
-# MoreStamina
+# Stash Colour Changer
 Bored of your characters sash colour or don't like the fact you can't change it?
 Well this mod allows you to change your sash colour by pressing 'C' on
 you keyboard.
